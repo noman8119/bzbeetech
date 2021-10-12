@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/bzbeetech/static/css/main.9ed4dfa2.chunk.css",
+    "main.js": "/bzbeetech/static/js/main.488c079c.chunk.js",
+    "main.js.map": "/bzbeetech/static/js/main.488c079c.chunk.js.map",
+    "runtime-main.js": "/bzbeetech/static/js/runtime-main.eb624a99.js",
+    "runtime-main.js.map": "/bzbeetech/static/js/runtime-main.eb624a99.js.map",
+    "static/css/2.818011ed.chunk.css": "/bzbeetech/static/css/2.818011ed.chunk.css",
+    "static/js/2.e08f0a9d.chunk.js": "/bzbeetech/static/js/2.e08f0a9d.chunk.js",
+    "static/js/2.e08f0a9d.chunk.js.map": "/bzbeetech/static/js/2.e08f0a9d.chunk.js.map",
+    "index.html": "/bzbeetech/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/bzbeetech/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.9ed4dfa2.chunk.css.map": "/bzbeetech/static/css/main.9ed4dfa2.chunk.css.map",
+    "static/js/2.e08f0a9d.chunk.js.LICENSE.txt": "/bzbeetech/static/js/2.e08f0a9d.chunk.js.LICENSE.txt",
+    "static/media/about-left.cc591af8.png": "/bzbeetech/static/media/about-left.cc591af8.png",
+    "static/media/boy.a285f63c.png": "/bzbeetech/static/media/boy.a285f63c.png",
+    "static/media/index.css": "/bzbeetech/static/media/roundbg.8924b52a.png",
+    "static/media/gal1.a4f887bf.png": "/bzbeetech/static/media/gal1.a4f887bf.png",
+    "static/media/gal2.dd1c8464.png": "/bzbeetech/static/media/gal2.dd1c8464.png",
+    "static/media/gal3.1ff86449.png": "/bzbeetech/static/media/gal3.1ff86449.png",
+    "static/media/gal4.e25ef9b1.png": "/bzbeetech/static/media/gal4.e25ef9b1.png",
+    "static/media/gal5.6475dcc7.png": "/bzbeetech/static/media/gal5.6475dcc7.png",
+    "static/media/gal6.74004596.png": "/bzbeetech/static/media/gal6.74004596.png",
+    "static/media/gal7.d75297bc.png": "/bzbeetech/static/media/gal7.d75297bc.png",
+    "static/media/gal8.7b146c0c.png": "/bzbeetech/static/media/gal8.7b146c0c.png",
+    "static/media/girl.a71ec6db.png": "/bzbeetech/static/media/girl.a71ec6db.png",
+    "static/media/girl2.6c91d780.png": "/bzbeetech/static/media/girl2.6c91d780.png",
+    "static/media/header-right.8b175c7c.png": "/bzbeetech/static/media/header-right.8b175c7c.png",
+    "static/media/logo.10dd1865.png": "/bzbeetech/static/media/logo.10dd1865.png",
+    "static/media/portfolio-right1.8da400c3.jpg": "/bzbeetech/static/media/portfolio-right1.8da400c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb624a99.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.e08f0a9d.chunk.js",
+    "static/css/main.9ed4dfa2.chunk.css",
+    "static/js/main.488c079c.chunk.js"
+  ]
+}
